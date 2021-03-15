@@ -1,4 +1,4 @@
-# LinkTree replacement
+# LinkTree / Shorby replacement
 This is a simple 'slot in' replacement for LinkTree. If you don't know LinkTree, this is a site that lets you gather all your links in one place, handy for sites that only let you have one link like Instgram.
 
 ### Advantages
